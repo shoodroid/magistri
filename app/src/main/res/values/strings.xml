@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">magistri</string>
+    <string name="action_settings">Settings</string>
+    <string name="classes">Classes</string>
+    <string name="title_activity_classes">ClassesActivity</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="uzlabina">Uzlabina</string>
+</resources>

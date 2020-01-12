@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "959484607620",
+    "firebase_url": "https://magistri-4f491.firebaseio.com",
+    "project_id": "magistri-4f491",
+    "storage_bucket": "magistri-4f491.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959484607620:android:a240ea90238afc5c02d6d1",
+        "android_client_info": {
+          "package_name": "cz.shoodroid.magistri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959484607620-sgftv6td0f78thnfjkt3rk2li8epp93e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cz.shoodroid.magistri",
+            "certificate_hash": "22b76d206b17b6d911889e514e88a11db2a38f5b"
+          }
+        },
+        {
+          "client_id": "959484607620-okjqchftm0klsmqff911oearormh7j1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2dOzqqB90DcBTGQSi1idw5h46zGksz2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959484607620-okjqchftm0klsmqff911oearormh7j1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
